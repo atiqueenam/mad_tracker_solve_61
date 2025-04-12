@@ -1,16 +1,8 @@
-# mad_tracker_solve_61
+# Flutter-Development-Tracker-solution-61
 
-A new Flutter project.
+ID: 221-15-5292
+Section: 61_B
 
-## Getting Started
+Here all the problems are solved for the Mobile application Design course of Flutter Tracker sheet for spring 2025 semester. Batch 61
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+all the problems are solved inside the lib folder as dart file with problem name. 
